@@ -1,7 +1,7 @@
 {
   "name": "@striderlabs/mcp-geico",
   "version": "1.0.0",
-  "description": "MCP server for GEICO Insurance — let AI agents get quotes, manage policies, file claims, and more",
+  "description": "MCP server for GEICO Insurance \u2014 let AI agents get quotes, manage policies, file claims, and more",
   "main": "dist/index.js",
   "bin": {
     "striderlabs-mcp-geico": "dist/index.js"
@@ -34,5 +34,5 @@
     "esbuild": "^0.20.0",
     "typescript": "^5.3.3"
   },
-  "mcpName": "io.striderlabs/geico"
+  "mcpName": "io.github.markswendsen-code/geico"
 }
